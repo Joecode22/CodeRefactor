@@ -51,8 +51,8 @@ No installation required
 
 To view this application please use the following URLs:
 
-1. For the live webpage follow this link: https://joecode22.github.io/M1C1_HTMLCSSGitChallenge_CodeRefactor/
-2. For the repository follow this link: https://github.com/Joecode22/M1C1_HTMLCSSGitChallenge_CodeRefactor
+1. For the live webpage follow this link: https://joecode22.github.io/CodeRefactor/
+2. For the repository follow this link: https://github.com/Joecode22/CodeRefactor
 
 ## Credits
 
